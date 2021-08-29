@@ -8,9 +8,6 @@
     "cypress:run": "cypress run --headless --browser chrome",
     "test": "cypress run --browser=chrome --spec 'cypress/integration/*.js'"
   },
-  "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true
-  },
   "dependencies": {
     "faker": "^5.5.3"
   },
