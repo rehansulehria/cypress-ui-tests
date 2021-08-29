@@ -4,5 +4,5 @@
 
 ```npm install```
 
-```npm run tests```
+```npm run test```
 
