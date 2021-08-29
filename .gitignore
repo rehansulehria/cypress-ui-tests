@@ -1,0 +1,10 @@
+node_modules
+*.xml
+*.iml
+mochawesome-report
+report
+screenshots
+videos
+package-lock.json
+*.png
+*.idea

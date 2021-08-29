@@ -1,0 +1,18 @@
+{
+  "viewportWidth": 1300,
+  "viewportHeight": 1000,
+  "defaultCommandTimeout": 15000,
+  "pageLoadTimeout": 20000,
+  "chromeWebSecurity": false,
+  "responseTimeout": 60000,
+  "taskTimeout": 60000,
+  "requestTimeout": 60000,
+  "videoCompression": false,
+  "integrationFolder": "cypress/integration/",
+  "numTestsKeptInMemory": 1,
+  "experimentalShadowDomSupport": true,
+
+  "env": {
+    "baseUrl": "https://d3a.io"
+  }
+}
